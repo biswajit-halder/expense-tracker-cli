@@ -1,0 +1,22 @@
+{
+  "name": "expense-tracker-cli",
+  "version": "1.0.0",
+  "description": "This is a simple command-line interface (CLI) application for managing tasks. It allows users to add, list, update, delete, and mark tasks with different statuses.\r Sample solution for the <a href=\"https://roadmap.sh/projects/task-tracker\" rel=\"nofollow\">task-tracker</a> challenge from <a href=\"https://roadmap.sh/\" rel=\"nofollow\">roadmap.sh</a>.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajit-halder/expense-tracker-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajit-halder/expense-tracker-cli/issues"
+  },
+  "homepage": "https://github.com/biswajit-halder/expense-tracker-cli#readme",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
+}
