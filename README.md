@@ -1,6 +1,7 @@
 # 💰 Expense Tracker CLI
 
 A simple Node.js command-line tool for tracking your daily expenses using JSON file storage.
+Sample solution for the <a href="https://roadmap.sh/projects/expense-tracker" rel="nofollow">task-tracker</a> challenge from <a href="https://roadmap.sh/" rel="nofollow">roadmap.sh</a>.
 
 ## ✅ Features
 
